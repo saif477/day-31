@@ -1,0 +1,150 @@
+    .tania{
+        background-color: rgba(201, 229, 247, 0.507);
+       
+
+    }
+    .shakib{
+        margin-top: 60px;
+    }
+    .shakib h4 {
+        margin-bottom: 40px;
+    }
+    .shakib h3 {
+        margin-bottom: 20px;
+    }
+    .shakib p{
+        margin-top: 30px;
+    }
+    .logo-bd span{
+        margin-right: 10px;
+        color: rgb(17, 217, 243);
+        font-size: 25px;
+    }
+    .saddam img{
+        max-width: 100%;
+        max-height: auto;
+    }
+
+    /*  Abput Section  */
+.about-section{
+    background: #727bfc;
+    color: white;
+}
+.about-text-left{
+    margin-top: 120px;
+}
+.about-text-left .lead {
+    font-size: 25px;
+    line-height: 2.7rem;
+}
+
+
+/* Pricing table */
+
+.pricing-table-section{
+    background-color: rgba(201, 229, 247, 0.507);
+}
+.pricing-item{
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    border-radius: 5px;
+}
+.pricing-item h1{}
+.pricing-item h5{}
+.pricing-item ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    margin-bottom: 45px;
+}
+.pricing-item ul li {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #777;
+}
+.pricing-item ul li span {
+    color: #657be0;
+    font-size: 25px;
+    font-weight: bold;
+    width: 40px;
+    display: inline-block;
+}
+.pric-box {
+	background-color: rgba(201, 229, 247, 0.507);
+	padding: 42px;
+	text-align: center;
+	border-radius: 50%;
+	max-width: 45%;
+	margin: auto;
+}
+
+.konka{
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    border-radius: 5px;
+}
+.konka h4{
+    margin-top: 10px;
+    margin-bottom: 55px;
+    font-weight: 500;
+    
+}
+
+.nozrul h3 {
+	color: #777;
+	margin-bottom: 35px;
+	font-size: 23px;
+}
+.pricing-item-button{}
+.pricing-item-button a {
+    border-color: #657be0;
+    border-width: 2px;
+    color: #657be0;
+    padding: 14px 30px;
+    font-size: 22px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+}
+
+/*  pic Section  */
+.about-item {
+    margin-top: 90px;
+}
+.about-item .card{}
+.about-item .card img {
+    width: 130px;
+    height: auto;
+    margin-top: -70px;
+    margin-left: 15px;
+}
+
+
+
+/*  Conent Us CSS  */
+
+.content-section{
+    background-color: rgba(201, 229, 247, 0.507);
+}
+.contnt-form-div .card{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+    padding: 40px;
+}
+
+.jahan{
+    margin-left: 20px;
+}
+.jahan h1 {
+	margin-bottom: 30px;
+	margin-top: 80px;
+}
+.jahan h4 {
+	margin-top: 25px;
+	font-weight: 500;
+}
+
+
+.sk-section{
+    color: white;
+}
